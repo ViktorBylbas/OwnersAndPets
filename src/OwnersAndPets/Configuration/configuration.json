@@ -1,0 +1,4 @@
+﻿{
+  "ConnectionString": "DB\\OwnersAndPets.db",
+  "PathToDb": "DB"
+}

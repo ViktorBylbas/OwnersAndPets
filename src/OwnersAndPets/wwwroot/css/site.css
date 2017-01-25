@@ -1,0 +1,66 @@
+body {
+    font-family: 'Asap', arial;
+}
+
+table, th, td {
+  border: 1px solid #bdbdbd;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+table thead {
+  background-color: #bdbdbd;
+  color: white;
+}
+
+table {
+    margin-bottom: 10px;
+}
+
+table div:first-child {
+    float: left;
+}
+
+table div:last-child {
+    text-align: right;
+}
+
+.table-owners th {
+  width: 200px;
+}
+
+.table-pets th {
+  width: 400px;
+}
+
+input[type="button"], 
+button {
+    width: 100px;
+    height: 40px;
+    background-color: grey;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bold;
+    opacity: 0.7;
+    text-shadow: black 0 0 1px;
+}
+
+input[type="button"]:hover, 
+button:hover {
+    opacity: 1;
+}
+
+form input[type="text"] {
+    width: 200px;
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 2px 0 2px 5px;
+    color: #A4A5A4;
+    border-bottom-color: #A4A5A4;
+    border-bottom-width: 1px;
+    outline: none;
+}
