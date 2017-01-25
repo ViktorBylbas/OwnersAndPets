@@ -1,0 +1,5 @@
+.vs/
+src/OwnersAndPets/bin/
+src/OwnersAndPets/obj/
+src/OwnersAndPets/DB/
+src/OwnersAndPets/wwwroot/debug.log
